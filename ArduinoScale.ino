@@ -1,6 +1,5 @@
 #include "HX711.h"
 #include <Wire.h>
-#include <EEPROM.h>
 #include <LiquidCrystal_I2C.h>
 
 #define CLK_PIN          2
