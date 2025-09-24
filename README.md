@@ -2,11 +2,11 @@
 Code to measure and display weight in pounds, including tare feature
 
 System Components:            
-3 Load cells,                
-1 Load cell summing board,     
-1 HX711,                       
-1 Arduino,                     
-1 Push button,                 
+3 Load cells                
+1 Load cell summing board     
+1 HX711                
+1 Arduino             
+1 Push button            
 
 
 
