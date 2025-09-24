@@ -1,5 +1,5 @@
 # Arduino-Scale
-Code to measure and display weight in pounds, including tare feature
+Code to measure and display weight in pounds, including tare feature. EEPROM is utilized to retain weight value in the event of power failure.
 
 System Components:            
 3 Load cells                
